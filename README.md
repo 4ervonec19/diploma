@@ -4,4 +4,4 @@
 
 #### Горностай
 
-![ermine](pictures/ermine/ermine.jpeg)
+<img src="pictures/ermine/ermine.jpeg" alt="Ermine" width="300" height="300" />
