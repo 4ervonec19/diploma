@@ -2,3 +2,9 @@ nbras_all_mid.txt
 nbras_all_nor.txt
 sami_all_nor_2022.txt
 sami_mid_2022.txt
+
+/images/ecg/images
+/images/ecg/matrices
+
+/images/reo/images
+/images/reo/matrices
