@@ -8,3 +8,9 @@ sami_mid_2022.txt
 
 /images/reo/images
 /images/reo/matrices
+
+/images_with_labels/ecg/images
+/images_with_labels/ecg/matrices
+
+/images_with_labels/reo/images
+/images_with_labels/reo/matrices
